@@ -20,7 +20,7 @@
 - 🔌 Building projects with Arduino, ESP32, relays, sensors and displays
 - 🐍 Main language: Python
 - 🐧 Interested in Linux, networking, Docker and cybersecurity
-- 📫 Contact: **ADD_YOUR_EMAIL**
+- 📫 Contact: **komronxon1289@gmail.com**
 
 ---
 
