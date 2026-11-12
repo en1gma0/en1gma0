@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Komronkhuja</h1>
 
-<h3 align="center">Backend Developer • Industrial Automation • Computer Vision • Embedded</h3>
+<h3 align="center">Backend Developer • Industrial Automation • Computer Vision • Embedded • Cybersecurity</h3>
 
 <p align="center">
   I build manufacturing software that talks to real hardware: Django backends,
@@ -20,7 +20,8 @@
 - 📷 Working with **IP cameras and computer vision**: RTSP / Hikvision ISAPI, YOLO and ONNX plate recognition
 - 🔌 Building shop-floor hardware with **Arduino and ESP32**: Andon buttons, relays, press counters, displays
 - 🧪 Making interactive browser apps with **Three.js** and hand tracking
-- 🐍 Main language: Python · 🐳 Docker every day · 🐧 Linux, networking and security
+- 🛡️ Passionate about **cybersecurity and penetration testing**: hands-on labs and CTF challenges on TryHackMe and Hack The Box
+- 🐍 Main language: Python · 🐳 Docker every day · 🐧 Linux and networking
 - 📫 Contact: **komronxon1289@gmail.com**
 
 ---
@@ -85,6 +86,14 @@
   <img src="https://img.shields.io/badge/NGINX-Web_Server-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
   <img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### Cybersecurity
+
+<p>
+  <img src="https://img.shields.io/badge/TryHackMe-Labs-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/Hack_The_Box-CTF-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box" />
+  <img src="https://img.shields.io/badge/Networking-Security-0A66C2?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
 </p>
 
 ### Embedded systems
