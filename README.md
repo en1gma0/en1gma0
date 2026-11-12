@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About me
 
-- 🏭 Developing a **Django MES** for a tractor and agricultural machinery plant: quality control, downtime, warehouse and gate control
+- 🏭 Part of the team building a **Django MES** for a tractor and agricultural machinery plant — I work on quality control, downtime, warehouse and gate control
 - 📷 Working with **IP cameras and computer vision**: RTSP / Hikvision ISAPI, YOLO and ONNX plate recognition
 - 🔌 Building shop-floor hardware with **Arduino and ESP32**: Andon buttons, relays, press counters, displays
 - 🧪 Making interactive browser apps with **Three.js** and hand tracking
@@ -101,7 +101,7 @@
 
 ### 🏭 AGROMAX Manufacturing Execution System
 
-A Django MES running a real plant. My part, feature by feature:
+A Django MES running a real plant, built by a team. The parts I worked on:
 
 - **Quality control:** control plans on operations, first-piece inspection protocols, measuring-tool registry with calibration dates, SPC control charts and histograms, defect Pareto, controller KPIs
 - **Shop-floor buttons and downtime:** Andon traffic light and relays, defect and breakdown buttons, a hard stop for machines waiting for QC or repair, downtime split by who owns it
