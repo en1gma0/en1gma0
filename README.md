@@ -22,7 +22,6 @@
 - 🧪 Making interactive browser apps with **Three.js** and hand tracking
 - 🛡️ Passionate about **cybersecurity and penetration testing**: hands-on labs and CTF challenges on TryHackMe and Hack The Box
 - 🐍 Main language: Python · 🐳 Docker every day · 🐧 Linux and networking
-- 📫 Contact: **komronxon1289@gmail.com**
 
 ---
 
@@ -147,9 +146,6 @@ A Python-based smart locker project.
 <p align="left">
   <a href="https://github.com/en1gma0">
     <img src="https://img.shields.io/badge/GitHub-en1gma0-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:komronxon1289@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <!-- Add LinkedIn:
   <a href="https://www.linkedin.com/in/komronkhuja-asadullakhujaev-b79212368/">
