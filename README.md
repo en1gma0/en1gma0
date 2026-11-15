@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About me
 
-- 🏭 Part of the team building a **Django MES** for a tractor and agricultural machinery plant — I work on quality control, downtime, warehouse and gate control
+- 🏭 Part of the team building a **Django MES** for a tractor and agricultural machinery plant — mostly the **Andon system and shop-floor hardware**, with some work on the website
 - 📷 Working with **IP cameras and computer vision**: RTSP / Hikvision ISAPI, YOLO and ONNX plate recognition
 - 🔌 Building shop-floor hardware with **Arduino and ESP32**: Andon buttons, relays, press counters, displays
 - 🧪 Making interactive browser apps with **Three.js** and hand tracking
@@ -109,13 +109,12 @@
 
 ### 🏭 AGROMAX Manufacturing Execution System
 
-A Django MES running a real plant, built by a team. The parts I worked on:
+A Django MES running a real plant, built by a team. My part:
 
-- **Quality control:** control plans on operations, first-piece inspection protocols, measuring-tool registry with calibration dates, SPC control charts and histograms, defect Pareto, controller KPIs
-- **Shop-floor buttons and downtime:** Andon traffic light and relays, defect and breakdown buttons, a hard stop for machines waiting for QC or repair, downtime split by who owns it
-- **Warehouse:** addressed storage, parts on racks, part cards with stock, Min/Max and FIFO lots
-- **Gate control:** a camera service that reads number plates from Hikvision cameras and a guard's page for labelling entries
-- Docker, PostgreSQL, Redis, NGINX, HTMX, pytest and CI on GitHub Actions
+- **Andon:** call buttons at the workstations, the signal light tower and relays that tell the MES a station needs help
+- **Shop-floor hardware:** Arduino / ESP32 devices, wiring and setup on the production line
+- **Website:** some help on the Django site
+- The project runs on Django, PostgreSQL, Redis and Docker
 
 ### 🚗 [Barrier gate with plate recognition](https://github.com/en1gma0/Machine_shlagbaun)
 
